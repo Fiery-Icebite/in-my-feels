@@ -1,0 +1,19 @@
+{
+  "dir": "ltr",
+  "lang": "en",
+  "name": "inmyfeelingsgame",
+  "short_name": "inmyfeelingsgam",
+  "scope": "/password",
+  "display": "browser",
+  "start_url": "https://inmyfeelingsgame.myshopify.com/password",
+  "background_color": "#000000",
+  "theme_color": "#dfa160",
+  "description": "inmyfeelingsgame",
+  "orientation": "any",
+  "related_applications": [],
+  "prefer_related_applications": "false",
+  "icons": [],
+  "url": "https://inmyfeelingsgame.myshopify.com/",
+  "generated": true,
+  "screenshots": []
+}
